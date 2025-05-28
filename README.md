@@ -15,10 +15,12 @@ A simple and stylish calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ## 📁 Project Structure
 
+```
 calculator/
 ├── index.html # Main HTML file
 ├── styles.css # Styling (CSS)
 └── script.js # JavaScript logic
+```
 
 ## 🛠️ Technologies Used
 
